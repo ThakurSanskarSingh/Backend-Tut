@@ -23,3 +23,5 @@ const uploadOnCloudinary = async (localFilePath) => {
         //remove the locally stored files
     }
 }
+
+export default uploadOnCloudinary

@@ -11,3 +11,4 @@ class Apiresponse {
        this.success = success
     }
 }
+export default Apiresponse
